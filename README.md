@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **ReactJs, NodeJs and ExpressJs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/karansinghkushwah1](https://github.com/karansinghkushwah1)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/karansinghkushwah1?tab=repositories)
 
 - 💬 Ask me about **MERN Stack and related tech.**
 
