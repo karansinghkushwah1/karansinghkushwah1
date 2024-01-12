@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karansinghkushwah1" alt="karansinghkushwah1" /></a> </p>
 -->
 
-- 🌱 I’m currently learning **ReactJs, NodeJs and ExpressJs**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/karansinghkushwah1?tab=repositories)
 
