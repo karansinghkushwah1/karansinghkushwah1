@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karansinghkushwah1" alt="karansinghkushwah1" /></a> </p>
 -->
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **NextJs and NestJs**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/karansinghkushwah1?tab=repositories)
 
-- 💬 Ask me about **MERN Stack and related tech.**
+- 💬 Ask me about **Web Development and related tech.**
 
-- ⚡ Fun fact **I like to watch Anime**
+- ⚡ Fun fact **I can code in a room filled with people 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
